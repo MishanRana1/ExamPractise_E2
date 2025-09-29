@@ -29,6 +29,6 @@ public class Airplane implements Flight{
 
     @Override
     public String toString() {
-        return "Airplane [model=" + model + ", year=" + year + "]: ";
+        return "Airplane [model=" + model + ", year=" + yearBuilt + "]: ";
     }
 }
